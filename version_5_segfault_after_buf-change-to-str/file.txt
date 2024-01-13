@@ -1,0 +1,8 @@
+1..works!|
+2..was long, just wanna try smth.|
+3..is okay.|
+4..getting serious now.|
+5..abcdefghijklmnopqrstuvwxyz!|
+
+     END|
+.|
